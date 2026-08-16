@@ -1,6 +1,6 @@
 笔者在工训期间做印章的时候顺手搓了个智能飞行器技术专业的标志，但是笔者审美低下画得像蟑螂。希望有后人做出一个比较能代表此专业、好看一点的标志。
 
 <div align="center">
-<img src="https://img1.baidu.com/it/u=4115600826,424732110&fm=253&fmt=auto&app=138&f=JPEG?w=610&h=403">
+<img src="_model2(1)(1).jpg">
 <br>图1 笔者做的蟑螂标志
 </div>
